@@ -5,4 +5,5 @@ project ini bertujuan mengklasifikasi dataset penyakit jantung berdasarkan param
 ## Dataset
 sumber dataset : [kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
-## 
+## Algoritma
+1.  
