@@ -6,4 +6,15 @@ project ini bertujuan mengklasifikasi dataset penyakit jantung berdasarkan param
 sumber dataset : [kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Algoritma
-1.  
+1.  Label Encoding
+2.  MinMax Normalization
+3.  KFold
+4.  KNN
+5.  Evaluation Metric (Confusion Matrix, Accuracy, Precission, Recall, F1-Score)
+
+## Requirements
+1. python
+2. jupyter notebook
+3. scikitlearn
+4. matplotlib
+5. seaborn
